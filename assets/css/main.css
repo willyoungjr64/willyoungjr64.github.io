@@ -2844,6 +2844,10 @@ input, select, textarea {
 				margin-left: 0;
 			}
 
+			ul.contact > li:nth-child(2n) {
+				margin-left: 0;
+			}
+
 			ul.contact > li:nth-child(3n) {
 				margin-left: 0;
 			}
